@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=*** Xohyun ***&fontSize=24">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=#9999FF&height=300&section=header&text=Xoohyun%20render&fontSize=50" />
