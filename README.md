@@ -1,10 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46FFFF&fontColor=FFFFFF&height=200&section=header&text=Xoohyun%20&fontSize=50&fontAlign=80" />
 
-<h1 align = center>🌱 Junior Developer 🌱<h1>
+## 🌱 Junior Developer 🌱
+
+<p>
+  👋 Hello I'm Junior Develope SooHeon Jang.
+</p>
+<br/>
+
+## 💻 Tech Stacks(Studying) 💻
 	
-<div align=center>
-	<p>📚 Tech Stack(Studying) 📚</p>
-	<p>✨ Platforms & Languages ✨</p>	
+<div align=center style="font-size=30px">
+	<b>✨ Platforms & Languages ✨</b><br><br>
 </div>
 
 <div align="center">
@@ -15,11 +21,10 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/Pyhon-3776AB?style=flat&logo=Python&logoColor=white"/> 
 </div>
+<br>
 
+## 🔧 Tools 🔧
 
-<div align=center font-size="20px">
-	<p> 🔧 Tools 🔧 </p>	
-</div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
