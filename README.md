@@ -2,7 +2,7 @@
 
 <h1 align = center>🌱 Junior Developer 🌱<h1>
 	
-<div align=center fontSize="20px">
+<div align=center>
 	<p>📚 Tech Stack(Studying) 📚</p>
 	<p>✨ Platforms & Languages ✨</p>	
 </div>
