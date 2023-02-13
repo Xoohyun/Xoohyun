@@ -2,8 +2,7 @@
 
 <div align=center>
 	<h3>📚 Tech Stack(Studying) 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-	
+	<p>✨ Platforms & Languages ✨</p>	
 </div>
 
 <div align="center">
@@ -13,4 +12,14 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
 	<br>
 	<img src="https://img.shields.io/badge/Pyhon-3776AB?style=flat&logo=Python&logoColor=white"/> 
+</div>
+
+
+<div align=center>
+	<h3> 🔧 Tools 🔧 </h3>	
+</div>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
+	
 </div>
