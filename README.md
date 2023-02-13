@@ -3,7 +3,7 @@
 <h1 align = center>🌱 Junior Developer 🌱<h1>
 	
 <div align=center>
-	<h3>📚 Tech Stack(Studying) 📚</h3>
+	<p>📚 Tech Stack(Studying) 📚</p>
 	<p>✨ Platforms & Languages ✨</p>	
 </div>
 
@@ -18,7 +18,7 @@
 
 
 <div align=center>
-	<h3> 🔧 Tools 🔧 </h3>	
+	<p> 🔧 Tools 🔧 </p>	
 </div>
 
 <div align="center">
