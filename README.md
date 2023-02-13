@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3BE0CB&fontColor=FFFFFF&height=100&section=header&text=Xoohyun%20&fontSize=50&fontAlign=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=32A4FF&fontColor=FFFFFF&height=100&section=header&text=Xoohyun%20&fontSize=50&fontAlign=80" />
 
 <div align=center>
 	<h3>📚 Tech Stack(Studying) 📚</h3>
