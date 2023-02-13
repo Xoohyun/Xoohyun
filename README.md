@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=46FFFF&fontColor=FFFFFF&height=200&section=header&text=q(≧▽≦q)Xoohyun%20&fontSize=50&fontAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=46FFFF&fontColor=FFFFFF&height=200&section=header&text=Xoohyun%20&fontSize=60&fontAlign=80" />
 
 ## 🌱 Junior Developer 🌱
 
