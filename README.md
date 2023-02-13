@@ -3,7 +3,7 @@
 ## 🌱 Junior Developer 🌱
 
 <p>
-  👋 Hello I'm Junior Develope SooHeon Jang.
+  👋 Hello I'm Junior Develope SooHyeon Jang.
 </p>
 <br/>
 
