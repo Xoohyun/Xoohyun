@@ -21,5 +21,6 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
-	
+	<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
 </div>
