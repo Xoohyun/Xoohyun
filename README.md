@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=46FFFF&fontColor=FFFFFF&height=200&section=header&text=Xoohyun%20&fontSize=50&fontAlign=80" />
 
-<h1 align = center>🌱 Junior Developer 🌱<h1><hr>
+<h1 align = center>🌱 Junior Developer 🌱<h1>
 	
 <div align=center>
 	<h3>📚 Tech Stack(Studying) 📚</h3>
