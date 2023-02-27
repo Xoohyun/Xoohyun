@@ -7,7 +7,7 @@
 </p>
 <br/>
 
-## 💻 Tech Stacks(Studying) 💻
+## 🛠 Tech Stacks(Studying) 🛠
 	
 <div align=center style="font-size=30px">
 	<b>✨ Platforms & Languages ✨</b><br><br>
