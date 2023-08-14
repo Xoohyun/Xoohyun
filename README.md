@@ -7,9 +7,9 @@
 </br>
 
 ### 📝 Portfolio & Project & SNS Link
-[포트폴리오(링크)](https://www.xoohyun.kr/)
-[프로젝트 Devster(링크)](https://devster.kr/)
-[Naver Blog(링크)](https://blog.naver.com/xo0hyun)
+[포트폴리오(링크)](https://www.xoohyun.kr/)</br>
+[프로젝트 Devster(링크)](https://devster.kr/)</br>
+[Naver Blog(링크)](https://blog.naver.com/xo0hyun)</br>
 [Instagram(링크)](https://www.instagram.com/xo0hyun/?hl=ko)
 
 </br>
